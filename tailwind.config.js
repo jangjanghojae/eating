@@ -8,6 +8,7 @@ export default {
       colors: {
         background: '#fff3e3',
         loginSignupBt: '#ffc800',
+        button: '#fab370',
       },
     },
   },
