@@ -42,7 +42,7 @@ const menuData: MenuData = {
         { menu: "알리오올리오 스파게티", price: 5.0 },
         { menu: "봉골레 스파게티", price: 5.0 },
         { menu: "중화짜장 스파게티", price: 6.0 },
-        { menu: "마라크림 스파게티", price: 6.5 },
+        { menu: "마라크림 스파게티", price: 6.5 }, //불호음식 확인여부
       ],
     },
   ],
