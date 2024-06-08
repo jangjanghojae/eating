@@ -67,7 +67,7 @@ const Profile: React.FC = () => {
   const handleLogout = () => {
     auth.signOut();
     navigate('/loginSignup');
-    console.log('Logout');
+    console.log('Logout'); //로그아웃 sonsole > console
   };
 
   const handleLogoOnClick = () => {
